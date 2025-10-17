@@ -75,6 +75,12 @@ VS Code / Eclipse IDEA for development
 📸 Screenshots 
 
 <img width="1920" height="1080" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/e535abe3-d4ae-4bd6-a3f1-c15baf1cc14a" />
+<img width="1920" height="1080" alt="Screenshot (323)" src="https://github.com/user-attachments/assets/80d0c93c-3288-406e-9507-141b51f93d20" />
+<img width="1920" height="1080" alt="Screenshot (322)" src="https://github.com/user-attachments/assets/1393f7f7-64a3-4e49-b611-a7d5a1141db6" />
+<img width="1920" height="1080" alt="Screenshot (321)" src="https://github.com/user-attachments/assets/d0c77f5c-1c8c-4cad-9f44-ba0940062c58" />
+<img width="1920" height="1080" alt="Screenshot (320)" src="https://github.com/user-attachments/assets/ca2e41cc-1ae3-4a77-bda0-981518220c5e" />
+<img width="1920" height="1080" alt="Screenshot (319)" src="https://github.com/user-attachments/assets/4f48b28a-5337-46b0-ac4f-436e05c4833b" />
+
 
 🧑‍💻 Author
 
